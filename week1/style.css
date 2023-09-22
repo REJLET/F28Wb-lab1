@@ -33,11 +33,13 @@ header {
 /* Navigation Styles */
 nav ul {
   background-color: #615b5b;
+  position: fixed;
   color: #fff;
   text-align: center;
   list-style-type: none;
   margin: 0;
   padding: 20px;
+  width: 100%;
 }
 
 nav li {
